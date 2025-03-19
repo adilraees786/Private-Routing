@@ -2,7 +2,9 @@ import React from 'react'
 
 const UserInfo = () => {
   return (
-    <div>UserInfo</div>
+    <div>
+      <h1>UserInfo</h1>
+    </div>
   )
 }
 
